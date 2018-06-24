@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("test hanaga-local");
-		System.out.println("test hanaga-remote-11");
+		System.out.println("test hanaga-remote-22");
 	}
 
 }
