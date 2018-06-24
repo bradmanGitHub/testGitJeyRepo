@@ -3,7 +3,7 @@ package testGit2Jey;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("test hanaga-local");
+		System.out.println("test hanaga-local-yy");
 		System.out.println("test hanaga-remote-22");
 	}
 
